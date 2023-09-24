@@ -1,7 +1,7 @@
 https://zokiaa.github.io
 The website.
 
-#FAQ
+# FAQ
 
 # What is this?
 Description says it all. 
